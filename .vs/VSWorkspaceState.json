@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\config",
+    "\\server\\config",
+    "\\server\\models",
+    "\\server\\node_modules",
+    "\\server\\node_modules\\express",
+    "\\server\\node_modules\\express\\lib",
+    "\\server\\node_modules\\express\\lib\\middleware",
+    "\\server\\src"
+  ],
+  "SelectedNode": "\\client\\config\\index.js",
+  "PreviewInSolutionExplorer": false
+}
